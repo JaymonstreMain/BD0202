@@ -1,0 +1,37 @@
+Systeme d'informations:
+est l’ensemble d’informations et 
+règles de gestion utilisées par les métiers et les processus 
+de l’entreprise (la banque, la bourse, les administrations 
+publiques, les hôpitaux, etc.).
+
+Systeme informatiques:
+Système informatique: est l’ensemble de composants 
+logiciels, matériels et des données, permettant 
+d’automatiser tout ou partie du SI.
+
+Méthode et technique:
+- modélisation tecnic faisant partie de methode et utilise des outils
+methode -> c'est en gros un guide(démarche horde de truc a faire)
+technique -> elle dit comment faire
+outils -> moyens utilisé pour réaliser la technique
+
+Analyse      -> |Analyse      | -> |Conception| -> |Programmation| -> |   Test et    | -> |Maintenance|
+Préléminaire <- |Fonctionnelle| <- |du systeme| <- |             | <- |implémentation| <- |	      |
+
+(((Structure générale de l’information)))
+- bit = deux mots Binary Digit (o ou 1) -> code binaire (Plus petit élément d'info que l'on peut mémoriser sur support informatique)
+- Octet (Bytes) = regroupement de 8 bits peut être des lettres, des chifres .../charactères : Ascill : 1 octets = 8 bits
+- Unicode : 2 octets = 16 bits pour les caractères latins, coréens, arabes...
+- Field regroupement de charactères Il a un nom, une valeur et un type 
+◦ Nom, « Blanchet », Chaîne de caractères
+◦ Date de naissance, 1988-07-09, date
+Le champ s’appelle aussi information, propriété, donnée, 
+attribut , variable
+▪ Dans un MCD (Modèle Conceptuel des Données ), un 
+champ s’appelle attribut ou propriété. Sa valeur s’appelle 
+occurrence
+▪ Dans un MRD (Modèle Relationnel des Données), un 
+champ s’appelle une colonne
+-  enregistrement/record -> Regroupement d’attributs ou de champs liés les uns aux autres par leur structure
+- fichier/file Regroupement d’enregistrements ayant un rapport entre eux
+- Base de donnés -> Regroupement de tables reliées par des associations ou une collection de données structurées

@@ -1,0 +1,4 @@
+La modélisation des données est une technique
+ayant pour but de créer un schéma
+compréhensible des données d’un
+environnement, d’une situation, …

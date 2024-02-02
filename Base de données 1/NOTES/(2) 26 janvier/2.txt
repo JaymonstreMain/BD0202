@@ -1,0 +1,7 @@
+les 3 dimentions d'une application
+
+(-> -> ->)		(-> -> ->)		(-> -> ->)
+Interface 		Traitements 		Données
+
+Stations de travail	Lang.prog/manip.dné	SGBD bases de données
+(<- <- <-)		(<- <- <-)		(<- <- <-)
